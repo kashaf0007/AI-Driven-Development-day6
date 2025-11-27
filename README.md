@@ -3,7 +3,7 @@
 ## 🔹 Step 1 — Create Your GitHub Personal Access Token (PAT)
 
 Open:
-# https://github.com/settings/personal-access-tokens/new
+## https://github.com/settings/personal-access-tokens/new
 
 Generate a Fine-grained Personal Access Token with:
 
